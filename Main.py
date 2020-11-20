@@ -16,10 +16,10 @@ driver.get('https://login-learn.k12.com/#login')
 time.sleep(5)
 
 UN = driver.find_element_by_xpath('/html/body/div/section/div[1]/div/div[2]/div[1]/div[1]/div[2]/form/div[2]/div[2]/input')
-UN.send_keys('UserName')
+UN.send_keys(UserName)
 
 PW = driver.find_element_by_xpath('/html/body/div/section/div[1]/div/div[2]/div[1]/div[1]/div[2]/form/div[3]/div[2]/input')
-PW.send_keys('Password')
+PW.send_keys(Password)
 
 LB = driver.find_element_by_xpath('/html/body/div/section/div[1]/div/div[2]/div[1]/div[1]/div[2]/form/div[5]/span/button')
 LB.click()
@@ -53,10 +53,10 @@ driver.get('https://login-learn.k12.com/#login')
 time.sleep(5)
 
 UN = driver.find_element_by_xpath('/html/body/div/section/div[1]/div/div[2]/div[1]/div[1]/div[2]/form/div[2]/div[2]/input')
-UN.send_keys('UserName')
+UN.send_keys(UserName)
 
 PW = driver.find_element_by_xpath('/html/body/div/section/div[1]/div/div[2]/div[1]/div[1]/div[2]/form/div[3]/div[2]/input')
-PW.send_keys('Password')
+PW.send_keys(Password)
 
 LB = driver.find_element_by_xpath('/html/body/div/section/div[1]/div/div[2]/div[1]/div[1]/div[2]/form/div[5]/span/button')
 LB.click()
@@ -89,10 +89,10 @@ driver.get('https://login-learn.k12.com/#login')
 time.sleep(5)
 
 UN = driver.find_element_by_xpath('/html/body/div/section/div[1]/div/div[2]/div[1]/div[1]/div[2]/form/div[2]/div[2]/input')
-UN.send_keys('UserName')
+UN.send_keys(UserName)
 
 PW = driver.find_element_by_xpath('/html/body/div/section/div[1]/div/div[2]/div[1]/div[1]/div[2]/form/div[3]/div[2]/input')
-PW.send_keys('Password')
+PW.send_keys(Password)
 
 LB = driver.find_element_by_xpath('/html/body/div/section/div[1]/div/div[2]/div[1]/div[1]/div[2]/form/div[5]/span/button')
 LB.click()
@@ -125,10 +125,10 @@ driver.get('https://login-learn.k12.com/#login')
 time.sleep(5)
 
 UN = driver.find_element_by_xpath('/html/body/div/section/div[1]/div/div[2]/div[1]/div[1]/div[2]/form/div[2]/div[2]/input')
-UN.send_keys('UserName')
+UN.send_keys(UserName)
 
 PW = driver.find_element_by_xpath('/html/body/div/section/div[1]/div/div[2]/div[1]/div[1]/div[2]/form/div[3]/div[2]/input')
-PW.send_keys('Password')
+PW.send_keys(Password)
 
 LB = driver.find_element_by_xpath('/html/body/div/section/div[1]/div/div[2]/div[1]/div[1]/div[2]/form/div[5]/span/button')
 LB.click()
