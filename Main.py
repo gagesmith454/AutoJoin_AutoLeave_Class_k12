@@ -26,12 +26,12 @@ LB.click()
 
 # go to calender and join class
 
-time.sleep(3)
+time.sleep(7)
 
 Calender = driver.find_element_by_xpath('/html/body/div[1]/section/div[3]/div[1]/div[1]/ul/li[1]/a')
 Calender.click()
 
-time.sleep(5)
+time.sleep(7)
 
 Math = driver.find_element_by_xpath('/html/body/div[1]/section/div[3]/div[2]/div[4]/div[2]/div[2]/div/div[2]/div/div[2]/div/div[3]/table/tbody/tr[1]/td/a/span/span[1]')
 Math.click()
@@ -63,12 +63,12 @@ LB.click()
 
 # go to calender and join class
 
-time.sleep(3)
+time.sleep(7)
 
 Calender = driver.find_element_by_xpath('/html/body/div[1]/section/div[3]/div[1]/div[1]/ul/li[1]/a')
 Calender.click()
 
-time.sleep(5)
+time.sleep(7)
 
 Science = driver.find_element_by_xpath('/html/body/div[1]/section/div[3]/div[2]/div[4]/div[2]/div[2]/div/div[2]/div/div[2]/div/div[3]/table/tbody/tr[2]/td/a/span/span[1]')
 Science.click()
@@ -99,12 +99,12 @@ LB.click()
 
 # go to calender and join class
 
-time.sleep(3)
+time.sleep(7)
 
 Calender = driver.find_element_by_xpath('/html/body/div[1]/section/div[3]/div[1]/div[1]/ul/li[1]/a')
 Calender.click()
 
-time.sleep(5)
+time.sleep(7)
 
 English = driver.find_element_by_xpath('/html/body/div[1]/section/div[3]/div[2]/div[4]/div[2]/div[2]/div/div[2]/div/div[2]/div/div[3]/table/tbody/tr[3]/td/a/span/span[1]')
 English.click()
@@ -135,12 +135,12 @@ LB.click()
 
 # go to calender and join class
 
-time.sleep(3)
+time.sleep(7)
 
 Calender = driver.find_element_by_xpath('/html/body/div[1]/section/div[3]/div[1]/div[1]/ul/li[1]/a')
 Calender.click()
 
-time.sleep(5)
+time.sleep(7)
 
 GoogleApps = driver.find_element_by_xpath('/html/body/div[1]/section/div[3]/div[2]/div[4]/div[2]/div[2]/div/div[2]/div/div[2]/div/div[3]/table/tbody/tr[4]/td/a/span/span[1]')
 GoogleApps.click()
